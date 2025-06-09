@@ -371,7 +371,7 @@ public class Vendedor extends Funcionario {
 ### Exercício 1: Básico - Sistema de Formas Geométricas
 Crie um sistema demonstrando os três pilares:
 
-**Classe Abstrata Base:**
+**[Classe Abstrata Base:](src/main/java/FormaGeometrica.java)**
 ```java
 public abstract class FormaGeometrica {
     protected String cor;
@@ -399,9 +399,9 @@ public abstract class FormaGeometrica {
 ```
 
 **Implemente as classes:**
-- `Retangulo` (largura, altura)
-- `Circulo` (raio)
-- `Triangulo` (base, altura, lado1, lado2, lado3)
+- [`Retangulo`](src/main/java/Retangulo.java) (largura, altura)
+- [`Circulo`](src/main/java/Circulo.java) (raio)
+- [`Triangulo`](src/main/java/Triangulo.java) (base, altura, lado1, lado2, lado3)
 
 **Teste o polimorfismo:**
 ```java
