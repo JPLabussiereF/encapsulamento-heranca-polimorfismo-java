@@ -399,9 +399,9 @@ public abstract class FormaGeometrica {
 ```
 
 **Implemente as classes:**
-- [`Retangulo`](src/main/java/Retangulo.java) (largura, altura)
-- [`Circulo`](src/main/java/Circulo.java) (raio)
-- [`Triangulo`](src/main/java/Triangulo.java) (base, altura, lado1, lado2, lado3)
+- [`Retangulo` (largura, altura)](src/main/java/Retangulo.java)
+- [`Circulo` (raio)](src/main/java/Circulo.java)
+- [`Triangulo` (base, altura, lado1, lado2, lado3)](src/main/java/Triangulo.java)
 
 **Teste o polimorfismo:**
 ```java
